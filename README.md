@@ -43,12 +43,6 @@ Mi objetivo es contribuir a proyectos desafiantes y seguir aprendiendo, aplicand
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
----
-
-## 🚀 Proyectos Destacados
-
-- [**Nombre de tu Proyecto #1**](Link al repositorio): Descripción breve del proyecto. Por ejemplo: "Una API RESTful construida con Spring Boot para una tienda online".
-- [**Nombre de tu Proyecto #2**](Link al repositorio): Descripción breve del proyecto. Por ejemplo: "Aplicación web de gestión de tareas con front-end en JavaScript puro".
 
 ---
 ## ✉️ Cómo contactarme
