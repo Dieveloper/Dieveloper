@@ -1,13 +1,12 @@
 <h1 align="center">Hola, Soy Diego Gómez Jordán <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
                                       👨🏻‍💻 &nbsp;Sobre Mi
                                       
-🎓  Actualmente estoy en el segundo año del grado superior Desarrollo de Aplicaciones Web.
-💡  Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
-🌱  Estoy en camino de aprender más sobre Web3, Arquitectura Basada en Microservicios y Aprendizaje Automático.
-✍️  En mi tiempo libre, me dedico a estudiar nuevas tecnologias.
-💬  No dudes en contactarme para trabajo o consultas.
-✉️  Puedes enviarme un correo a devgomezdiego@gmail.com
-. ¡Trataré de responder tan pronto como pueda!
+🎓  &nbsp;Actualmente estoy en el segundo año del grado superior Desarrollo de Aplicaciones Web.
+💡  &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
+🌱  &nbsp;Estoy en camino de aprender más sobre Web3, Arquitectura Basada en Microservicios y Aprendizaje Automático.
+✍️  &nbsp;En mi tiempo libre, me dedico a estudiar nuevas tecnologias.
+💬  &nbsp;No dudes en contactarme para trabajo o consultas.
+✉️  &nbsp;Puedes enviarme un correo a devgomezdiego@gmail.com ¡Trataré de responder tan pronto como pueda!
 
 
 
