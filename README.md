@@ -11,13 +11,6 @@
 💬 &nbsp;Estoy abierto a oportunidades laborales y colaboraciones; me encanta aprender de equipos dinámicos y retos desafiantes.<br>
 
 ---
-## ✉️ Cómo contactarme
-<p align="left">
-  <a href="https://www.linkedin.com/in/diego-gómez-jordán-34b635378" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="mailto:devgomezdiego@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" /></a>
-</p>
-
----
 
 ## ⚙️ Mi Stack
 
@@ -53,3 +46,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 ---
+## ✉️ Cómo contactarme
+<p align="left">
+  <a href="https://www.linkedin.com/in/diego-gómez-jordán-34b635378" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="mailto:devgomezdiego@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" /></a>
+</p>
