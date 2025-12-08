@@ -6,7 +6,7 @@
 
 Apasionado por la tecnología y la creación de soluciones web, actualmente curso el segundo año del grado superior en **Desarrollo de Aplicaciones Web (DAW)**. Con un sólido enfoque en crear soluciones prácticas y escalables, busco activamente **prácticas y oportunidades laborales** como desarrollador para aplicar mis conocimientos en entornos de equipo dinámicos.
 
-Mi objetivo es contribuir a proyectos desafiantes y seguir aprendiendo, aplicando mis habilidades en **Java, Python, Spring, JavaScript y MySQL** para construir aplicaciones web robustas y eficientes.
+Mi objetivo es contribuir a proyectos desafiantes y seguir aprendiendo, aplicando mis habilidades en **Java, PHP, Spring, JavaScript y MySQL** para construir aplicaciones web robustas y eficientes.
 
 ---
 
@@ -15,7 +15,7 @@ Mi objetivo es contribuir a proyectos desafiantes y seguir aprendiendo, aplicand
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 ---
