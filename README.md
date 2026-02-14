@@ -6,7 +6,7 @@
 
 Apasionado por la tecnología y la creación de soluciones web, actualmente curso el segundo año del grado superior en **Desarrollo de Aplicaciones Web (DAW)**. Con un sólido enfoque en crear soluciones prácticas y escalables, busco activamente **prácticas y oportunidades laborales** como desarrollador para aplicar mis conocimientos en entornos de equipo dinámicos.
 
-Mi objetivo es contribuir a proyectos desafiantes y seguir aprendiendo, aplicando mis habilidades en **Java, PHP, Spring, JavaScript y MySQL** para construir aplicaciones web robustas y eficientes.
+Mi objetivo es contribuir a proyectos desafiantes y seguir aprendiendo, aplicando mis habilidades en **C#, PHP, JavaScript y MySQL** para construir aplicaciones web robustas y eficientes.
 
 ---
 
@@ -23,6 +23,7 @@ Mi objetivo es contribuir a proyectos desafiantes y seguir aprendiendo, aplicand
 ## 🔨 Frameworks & Librerías
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 ---
 
