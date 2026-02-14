@@ -1,4 +1,4 @@
-<h1 align="center">Diego Gómez Jordán | Desarrollador Full Stack en Formación 💻</h1>
+<h1 align="center">Diego Gómez Jordán | Desarrollador Full Stack 💻</h1>
 
 ---
 
