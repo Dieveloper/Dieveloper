@@ -1,12 +1,12 @@
-<h1 align="center">Diego Gómez Jordán | Desarrollador Full Stack 💻</h1>
+<h1 align="center">Diego Gómez Jordán | Desarrollador Full Stack 🚀</h1>
 
 ---
 
-## 👨🏻‍💻 Acerca de Mí
+## 👨🏻‍💻 Sobre Mí
 
-Apasionado por la tecnología y la creación de soluciones web, actualmente curso el segundo año del grado superior en **Desarrollo de Aplicaciones Web (DAW)**. Con un sólido enfoque en crear soluciones prácticas y escalables, busco activamente **prácticas y oportunidades laborales** como desarrollador para aplicar mis conocimientos en entornos de equipo dinámicos.
+Tras completar mi formación especializada, me he consolidado como **Desarrollador Full Stack** con una mentalidad orientada a la resolución de problemas y la arquitectura limpia. Mi enfoque actual se centra en construir soluciones web modernas, escalables y de alto rendimiento.
 
-Mi objetivo es contribuir a proyectos desafiantes y seguir aprendiendo, aplicando mis habilidades en **C#, PHP, JavaScript y MySQL** para construir aplicaciones web robustas y eficientes.
+No solo escribo código; diseño experiencias digitales. Combino mi dominio del **Backend (C#, PHP)** con interfaces dinámicas en **Frontend (Vue.js)** para transformar ideas complejas en aplicaciones funcionales y robustas. ¡Siempre listo para el próximo gran reto tecnológico!
 
 ---
 
@@ -40,7 +40,7 @@ Mi objetivo es contribuir a proyectos desafiantes y seguir aprendiendo, aplicand
 
 
 ---
-## ✉️ Cómo contactarme
+## ✉️ Hablemos
 <p align="left">
   <a href="https://www.linkedin.com/in/diego-gómez-jordán-34b635378" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="mailto:devgomezdiego@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" /></a>
